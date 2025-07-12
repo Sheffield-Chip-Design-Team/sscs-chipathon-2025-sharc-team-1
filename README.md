@@ -1,0 +1,1 @@
+# sscs-chipathon-2025-sharc-team-1
