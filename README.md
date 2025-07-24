@@ -8,14 +8,13 @@ Guide for Macbooks
   
 2. Clone the tools repo
 
-` git clone --depth=1 https://github.com/iic-jku/iic-osic-tools.git `
+`git clone --depth=1 https://github.com/iic-jku/iic-osic-tools.git`
   
 5. create the docker container from the image
    
   in the terminal:
     cd to the Dockerfile directory
-
-    `docker build .`
+    `docker build . `
     
 3. Install X Quartz
    
