@@ -14,9 +14,9 @@ Guide for Macbooks
    
   in the terminal:
   
-    `cd <Dockerfile_Directory>`
+    `cd <Dockerfile_Directory>
     
-    `docker build . `
+    docker build . `
     
 3. Install X Quartz
    
