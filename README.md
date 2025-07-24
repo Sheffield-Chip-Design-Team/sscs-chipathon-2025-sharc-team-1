@@ -15,11 +15,11 @@ Guide for Macbooks
   in the terminal:
     cd to the Dockerfile directory
 
-    ` docker build . `
+    `docker build .`
     
 3. Install X Quartz
    
-   ` brew install xquartz ` 
+   `brew install xquartz` 
 
 4. change xquartz settings
 
