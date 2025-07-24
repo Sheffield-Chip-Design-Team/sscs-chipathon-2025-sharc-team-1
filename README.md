@@ -13,7 +13,9 @@ Guide for Macbooks
 5. create the docker container from the image
    
   in the terminal:
-    cd to the Dockerfile directory
+  
+    `cd <Dockerfile_Directory>`
+    
     `docker build . `
     
 3. Install X Quartz
